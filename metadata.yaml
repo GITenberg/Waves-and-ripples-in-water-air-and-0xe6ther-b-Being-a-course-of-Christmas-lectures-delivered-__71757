@@ -1,0 +1,38 @@
+_repo: Waves-and-ripples-in-water-air-and-0xe6ther-b-Being-a-course-of-Christmas-lectures-delivered-__71757
+_version: 0.0.1
+alternative_title: Waves & ripples in water, air, & æther
+creator:
+  author:
+    agent_name: Fleming, J. A. (John Ambrose), Sir
+    alias: Fleming, John Ambrose, Sir
+    birthdate: 1849
+    deathdate: 1945
+    gutenberg_agent_id: '39516'
+    url: http://www.gutenberg.org/2009/agents/39516
+    wikipedia: https://en.wikipedia.org/wiki/John_Ambrose_Fleming
+description: ''
+edition_note: Second issue, revised.
+gutenberg_issued: '2023-09-29'
+identifiers:
+  gutenberg: '71757'
+language: en
+pgterms:marc904: https://archive.org/details/wavesrippleswater00flemrich/page/n7/mode/2up
+pgterms:marc905: 20210704144354flemingmad
+pgterms:marc906: '1912'
+pgterms:marc907: GB
+production_note: Charlene Taylor, Quentin Campbell, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bSociety for Promoting Christian Knowledge, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Electric waves'
+- !lcsh 'Sound'
+- !lcsh 'Waves'
+- !lcc 'QC'
+- GITenberg
+title: 'Waves and ripples in water, air, and æther : $b Being a course of Christmas
+  lectures delivered at the Royal Institution of Great Britain'
+url: http://www.gutenberg.org/ebooks/71757
