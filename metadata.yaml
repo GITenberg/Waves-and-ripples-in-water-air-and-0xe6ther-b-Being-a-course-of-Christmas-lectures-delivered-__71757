@@ -1,6 +1,9 @@
 _repo: Waves-and-ripples-in-water-air-and-0xe6ther-b-Being-a-course-of-Christmas-lectures-delivered-__71757
 _version: 0.1.0
 alternative_title: Waves & ripples in water, air, & æther
+covers:
+- cover_type: archival
+  image_path: 71757-h/images/cover.jpg
 creator:
   author:
     agent_name: Fleming, J. A. (John Ambrose), Sir
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39516
     wikipedia: https://en.wikipedia.org/wiki/John_Ambrose_Fleming
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71757#Waves-and-ripples-in-water-air-and-0xe6ther-b-Being-a-course-of-Christmas-lectures-delivered-_
 edition_note: Second issue, revised.
 gutenberg_issued: '2023-09-29'
 identifiers:
